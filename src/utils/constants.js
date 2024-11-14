@@ -20,6 +20,4 @@ export const API_OPTIONS = {
     {identifier:"spanish",name:"Spanish"},
   ];
 
-  export const OPENAI_KEY="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"
-  // export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
-  //export const OPENAI_KEY="AIzaSyBGRUSAsGej8koKjBNL36wooBitGdthFd0"
+  export const OPENAI_KEY="Your_API key";
